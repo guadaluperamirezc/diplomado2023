@@ -1,2 +1,2 @@
-# diplomado2023
+# Diplomado2023
 This is a course in python
