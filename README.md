@@ -6,3 +6,6 @@ Name,
 
 Favorite music,
   1. BTS
+
+School,
+  1. Ingenieria
